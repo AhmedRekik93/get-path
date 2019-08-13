@@ -1,0 +1,22 @@
+{
+  "name": "@ahm/get-path",
+  "version": "1.0.0",
+  "description": "Nothing special!",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AhmedRekik93/get-path.git"
+  },
+  "keywords": [
+    "nope"
+  ],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AhmedRekik93/get-path/issues"
+  },
+  "homepage": "https://github.com/AhmedRekik93/get-path#readme"
+}
